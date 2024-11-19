@@ -1,5 +1,5 @@
 import streamlit as st 
-st.set_page_config(page_title='Form')
+st.set_page_config(page_title='My first project')
 
 # # # form 
 # with st.form(key='myform'):
